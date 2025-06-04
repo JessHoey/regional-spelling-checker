@@ -6,7 +6,7 @@ A simple Python command-line tool for detecting and comparing UK and US English 
 
 ## 🛠 Requirements
 
--Python 3.x
+- Python 3.x
 - For future web application : may need flask 
 
 ---
@@ -63,10 +63,7 @@ Use one word pair per line, separated by a comma.
 
 ## 💡 Future Ideas
 
-Save results to a text file
-
-Highlight results in-line
-
-Add a web or GUI version
-
-Package as a .exe for non-Python users
+- Save results to a text file
+- Highlight results in-line
+- Add a web or GUI version
+- Package as a .exe for non-Python users
